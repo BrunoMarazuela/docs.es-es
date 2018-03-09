@@ -29,7 +29,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 12/22/2017
 ---
 # <a name="drag-and-drop"></a>Arrastrar y colocar
-[!INCLUDE[TLA#tla_winclient](../../../../includes/tlasharptla-winclient-md.md)]Proporciona una infraestructura de entrega que permite arrastrar y colocar datos dentro y arrastre muy flexible [!INCLUDE[TLA2#tla_winclient](../../../../includes/tla2sharptla-winclient-md.md)] aplicaciones, así como otros [!INCLUDE[TLA#tla_mswin](../../../../includes/tlasharptla-mswin-md.md)] las aplicaciones.  
+[!INCLUDE[TLA#tla_winclient](../../../../includes/tlasharptla-winclient-md.md)] proporciona una infraestructura de entrega que permite arrastrar y colocar datos dentro y arrastre muy flexible [!INCLUDE[TLA2#tla_winclient](../../../../includes/tla2sharptla-winclient-md.md)] aplicaciones, así como otros [!INCLUDE[TLA#tla_mswin](../../../../includes/tlasharptla-mswin-md.md)] las aplicaciones.  
   
 ## <a name="in-this-section"></a>En esta sección  
  [Información general sobre la función de arrastrar y colocar](../../../../docs/framework/wpf/advanced/drag-and-drop-overview.md)  
